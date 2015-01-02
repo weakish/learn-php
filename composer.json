@@ -1,0 +1,5 @@
+{
+  "require": {
+    "afoozle/github-webhook": "0.4"
+  }
+}
